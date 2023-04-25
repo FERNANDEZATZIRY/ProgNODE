@@ -1,0 +1,25 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",  
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
+  "main": "Unidad3_Actividad1.js",
+  "scripts": {
+    "start": "node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "node",
+    "expressjs",
+    "itgam"
+  ],
+  "author": "Andrea",
+  "license": "MIT"
+}
